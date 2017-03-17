@@ -6,6 +6,14 @@ Link it allows you to add a link to HTML elements
 ## Usage ##
 
     <script>
+		$(function(){
+			$("span").linkit({
+				href: "http://google.com",
+				text: "this ding dang text",
+				target: "_blank"
+			});
+		});
+	</script>
 
 ## Vendors ##
 jQuery - [https://jquery.com/](https://jquery.com)
