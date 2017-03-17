@@ -1,7 +1,7 @@
 # jQuery LinkIt Plugin #
 Link it allows you to add a link to HTML elements
 
-## Version 0.1.0 ##
+## Version 0.2.0 ##
 
 ## Usage ##
 
